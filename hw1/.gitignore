@@ -1,0 +1,7 @@
+Digital_Music_5.json.gz
+
+__pycache__/
+.venv/
+venv/
+
+.DS_Store
